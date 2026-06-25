@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+model.pkl
+transaction_log.csv
